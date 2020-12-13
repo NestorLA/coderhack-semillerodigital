@@ -25,6 +25,8 @@
 		border-left: none;
 		border-right: none; 
 		margin-bottom: 0px;
+		padding-bottom: 40px;
+		padding-top: 10px;
 		.navbar-nav{
 			li{
 				& > a{
@@ -32,6 +34,7 @@
 					padding-bottom: 25px;
 					padding-top: 25px;
 					margin-bottom: -1px;
+					margin-top: 50px;
 					@include transition(all 0.5s);					
 				}
 				#mu-search-icon{
