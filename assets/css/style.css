@@ -531,6 +531,7 @@ img {
   color: #000;
   margin-bottom: 10px;
   text-transform: uppercase;
+  font-size: 4.2rem;
 }
 .mu-title p {
   color: #555;
@@ -613,7 +614,7 @@ img {
   width: 100%;
 }
 #mu-features .mu-features-area .mu-features-content .mu-single-feature span {
-  font-size: 25px;
+  font-size: 50px;
   padding: 10px 15px;
 }
 #mu-features .mu-features-area .mu-features-content .mu-single-feature h4 {
@@ -622,16 +623,7 @@ img {
   padding-bottom: 10px;
   position: relative;
 }
-#mu-features .mu-features-area .mu-features-content .mu-single-feature h4:after {
-  background-color: #333;
-  content: "";
-  left: 0;
-  right: 0;
-  bottom: 0;
-  height: 2px;
-  width: 70px;
-  position: absolute;
-}
+
 #mu-features .mu-features-area .mu-features-content .mu-single-feature p {
   font-size: 15px;
   letter-spacing: 0.3px;
